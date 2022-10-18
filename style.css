@@ -1,0 +1,55 @@
+.buttonAlgo{
+    border-radius: 15px !important; 
+    width: 70px;
+}
+
+#timeQuantum{
+  width: 80px;
+}
+
+.navbar{
+  background: lightskyblue;
+}
+
+
+
+.mainContainer{
+  background-image: url(https://img.freepik.com/free-vector/vibrant-summer-ombre-background-vector_53876-105765.jpg?w=2000);
+}
+
+.navbar-text{
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 30px;
+}
+
+.page-footer{
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2gOp_o0HxgwsnD2iyj3XXC2eFq5Q8KyYD6A&usqp=CAU);
+}
+
+.footer-copyright span{
+  font-size: 18px;
+  }
+
+/* 
+  .table-bordered th{
+    border: 2px solid black;
+    
+  }
+
+  .table-bordered td{
+    border: 2px solid black;
+    
+  }
+
+  .table-bordered tr{
+    border: 2px solid black;
+    
+  }
+
+  thead{
+    border: 2px solid black;
+  } */
+table{
+  border: 1px solid black;
+}
