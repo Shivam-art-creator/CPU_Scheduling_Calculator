@@ -53,3 +53,20 @@ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2gO
 table{
   border: 1px solid black;
 }
+
+/* #tblResults{
+  visibility: hidden;
+} */
+
+ #sjf{
+  font-size: 16px;
+  font-weight: 500;
+}
+ #srtf{
+  font-size: 16px;
+  font-weight: 500;
+}
+ #roundRobin{
+  font-size: 16px;
+  font-weight: 500;
+}
